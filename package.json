@@ -1,5 +1,5 @@
 {
-    "name": "Stylar-Web",
+    "name": "StyWeb",
     "version": "5.0.0",
     "scripts": {
         "dev": "next dev",
@@ -21,7 +21,7 @@
         "js-confetti": "^0.10.2",
         "moment": "^2.29.1",
         "moment-timezone": "^0.5.34",
-        "next": "^13.5.4",
+        "next": "^12.0.7",
         "next-pwa": "^5.4.4",
         "next-themes": "^0.1.1",
         "nprogress": "^0.2.0",
