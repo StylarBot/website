@@ -30,10 +30,6 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://github.com/StylarBot/Stylar">
-  <img src={"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/javascript_vector.svg"}/>
-</a>
-<div className="py-1"></div>
 <a href="https://github.com/StylarBot/Stylar-TS">
   <img src={"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/built-with/typescript_vector.svg"}/>
 </a>
@@ -108,8 +104,8 @@ export default function Footer() {
                             {new Date().getFullYear()} &copy; Stylar™️
                         </p>
                         <div className="hidden md:flex items-center justify-center">
-                                <p className={"text-xs text-orange-400"}>
-                                    Cannot get /Status, was it moved?
+                                <p className={"text-xs text-red-400"}>
+                                    WIP
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
