@@ -32,10 +32,6 @@ export default function Index() {
 Vote Stylar</a>
   </Link>
         </div>
-
-        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
-        <Image width="600" height="600" src="/img/gift-left.png"  />
-        </div>
       </div>
 
 
@@ -53,7 +49,7 @@ Vote Stylar</a>
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimized</p>
                   <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, Stylar allows you to sit back while it does all the automation!</p>
                 </div>
               </div>
@@ -65,13 +61,13 @@ Vote Stylar</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Secure</p>
                   <p className="text-gray-500 line-clamp-4">A completely open-source bot that you can browse and contribute to!</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Plenty Of Support</p>
                   <p className="text-gray-500 line-clamp-4">We provide the fastest response to anyone who needs help, whether it to be with the source code or the bot itself!</p>
                 </div>
               </div>
@@ -83,11 +79,11 @@ Vote Stylar</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://imgur.com/kN8wesL"  width="64" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://imgur.com/kN8wesL.png"  width="64" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Treat your server!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Stylar, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://imgur.com/kN8wesL" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://imgur.com/kN8wesL.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
