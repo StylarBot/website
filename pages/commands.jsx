@@ -3,25 +3,18 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-"/serverinfo",
-"/userinfo",
-"/member",
-"/punishment",
-"/tempban",
-"/antijoin",
-"/autoreact",
-"/autoreply",
-"/autorole",
-"/backup",
-"/clear",
-"/purge",
-"/raidprot",
-"/role-all",
-"/role",
-"/test",
-"/ticket",
-"/music",
-"/setup"
+"Useful Information Commands",
+"Antijoin System",
+"Autoreact System",
+"Autoreply System",
+"Member Punishment/Management",
+"Complete Server Backups",
+"Channel Management",
+"Message Management",
+"Raid Protection",
+"Efficient Role Management",
+"Full Ticket System",
+"(UPCOMING) Music System",
       ]
   return (
     <>
@@ -31,10 +24,10 @@ export default function Commands() {
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
-         Bot Commands
+         Stylar Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the bot.
+        Here, you can preview all of Stylar's various useful systems and commands!
         </p>
 
         <div>
@@ -81,21 +74,21 @@ export default function Commands() {
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://discord.gg/sshkAMJjcA"}>
+  <Link href={"https://discord.com/api/oauth2/authorize?client_id=1147168520732422287&permissions=28582469824214&scope=bot%20applications.commands"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Invite</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/sshkAMJjcA"}>
+  <Link href={"https://discord.gg/eWNXAjFKrg"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Support Server</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/sshkAMJjcA"}>
+  <Link href={"https://top.gg/bot/1147168520732422287"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote</a>
   </Link>

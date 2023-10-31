@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="Stylar™️" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="/img/bck.png"
             type="image/x-icon"
           />
           <meta
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="Stylar™️"
           />
           <meta name="theme-color" content="#6108dd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="/img/bck.jpg" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
