@@ -36,9 +36,6 @@ Vote Stylar</a>
         <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
         <Image width="600" height="600" src="/img/gift-left.png"  />
         </div>
-        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
-        <Image  width="600" height="600" src="/img/gift-right.png"  />
-        </div>
       </div>
 
 
@@ -86,11 +83,11 @@ Vote Stylar</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://cdn.discordapp.com/attachments/1118506858299265036/1168736495042039929/image.png"  width="128" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://cdn.discordapp.com/attachments/1118506858299265036/1168739141014536274/image.png?ex=6552dc25&is=65406725&hm=8ca8cc2fc5ebf39133f4869ddbc08391ccbf025e5b19f31c767f5cca6973a1a7&"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Treat your server!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Stylar, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/1118506858299265036/1168736495042039929/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1118506858299265036/1168739141014536274/image.png?ex=6552dc25&is=65406725&hm=8ca8cc2fc5ebf39133f4869ddbc08391ccbf025e5b19f31c767f5cca6973a1a7&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
