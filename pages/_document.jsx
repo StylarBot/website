@@ -16,7 +16,7 @@ class MyDocument extends Document {
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@StylarBot" />
           <meta name="twitter:creator" content="@StylarBot" />
-          <meta property="og:url" content="https://stylarbot.vercel.app" />
+          <meta property="og:url" content="https://stylar.vercel.app" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Stylar™️" />
           <link
@@ -28,7 +28,7 @@ class MyDocument extends Document {
             property="og:description"
             content="Stopping multiple bots, and having everything in 1 bot. Start using Stylar and experience an new world with all the famous commands included!"
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="/img/bck.jpg" />
           <meta property="og:image:alt" content="StylarLogo" />
           <meta property="og:locale" content="en_GB" />
           <meta
